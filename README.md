@@ -50,7 +50,7 @@
 
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Sql]
 <!-- [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySql] -->
-[<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDb]
+[<img align="left" alt="MongoDB" width="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/1920px-MongoDB-Logo.svg.png" />][MongoDb]
 [<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="Jenkins" width="35px" src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" />][Jenkins]
 [<img align="left" alt="Teamcity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Teamcity_Logo.png/1200px-Teamcity_Logo.png" />][Teamcity]
