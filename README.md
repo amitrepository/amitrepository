@@ -40,21 +40,20 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VisualStudio]
 <!-- [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5] -->
 <!-- [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist] -->
-[<img align="left" alt="Angular" width="58px" src="https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36" />][Angular]
+[<img align="left" alt="Angular" width="55px" src="https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36" />][Angular]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][Python]
 [<img align="left" alt="Java" width="40px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />][Java]
-[<img align="left" alt="Groovy" width="45px" src="https://miro.medium.com/max/961/1*-lABKnAbPcbcAWTjhyZxrQ.png" />][Groovy]
+[<img align="left" alt="Groovy" width="40px" src="https://miro.medium.com/max/961/1*-lABKnAbPcbcAWTjhyZxrQ.png" />][Groovy]
 <!-- [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJs] -->
 
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Sql]
 <!-- [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySql] -->
 [<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDb]
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-[<img align="left" alt="Jenkins" width="40px" src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" />][Jenkins]
-[<img align="left" alt="Teamcity" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Teamcity_Logo.png/1200px-Teamcity_Logo.png" />][Teamcity]
+[<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+[<img align="left" alt="Jenkins" width="35px" src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" />][Jenkins]
+[<img align="left" alt="Teamcity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Teamcity_Logo.png/1200px-Teamcity_Logo.png" />][Teamcity]
 
 
 <br />
